@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    
+    <comment>RPL_SMKSA</comment>
+    <entry key = "HOST">localhost</entry>
+    <entry key = "PORT">3306</entry>
+    <entry key = "DATABASE">db_pengaduan</entry>
+    <entry key = "USERNAME">root</entry>
+    <entry key = "PASSWORD"></entry>
+</properties>
